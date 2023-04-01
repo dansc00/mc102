@@ -1,1 +1,1 @@
-# Repositório da disciplina de Algoritmos e Programação de Computadores
+Repositório da disciplina Algoritmos e Programação de Computadores
